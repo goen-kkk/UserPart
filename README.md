@@ -25,6 +25,7 @@ WAF
    └─ validate.go
 
 ```
+<<<<<<< HEAD
 
 **WAF**: https://github.com/h3h3da/MicroWAF
 **前端**：https://github.com/Squirrel1024/waf_management_system
@@ -33,3 +34,5 @@ WAF
 - 日志与WAF管理模块：https://github.com/kirei1991/waf
 - 用户管理模块：https://github.com/goen-kkk/UserPart
 - 规则管理模块：https://github.com/saying-yan/wafRule
+=======
+>>>>>>> ee7f842781a714b98a3c4033a2d410aace89a918
